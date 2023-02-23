@@ -51,8 +51,7 @@ body{
 }
 
 .logo{
-    height: 30px;
-    margin: -10px 30px 0;
+    height: 80px;
 }
 
 .search-box{
@@ -93,8 +92,8 @@ body{
 }
 
 .user-options .icon{
-    height: 80%;
-    margin-right: 20px;
+    height: 55%;
+    margin-right: 30px;
     cursor: pointer;
 }
 
